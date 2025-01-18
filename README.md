@@ -10,7 +10,8 @@
 - 🌱 **Currently Learning:** **Deep Learning, Web Development**  
 - 💬 **Ask Me About:** **Python, Java, SQL, Machine Learning, Web Development**  
 - 📫 **Reach Me At:** **rakesh20050618@gmail.com**  
-- 🏆 **Achievements:**  
+- 🏆 **Achievements:**
+  - 💻 **LeetCode Achievements:** Earned a **200 Days Badge** and consistently solve daily challenges to enhance problem-solving skills.
   - 🎖️ **5-Star Coder** on **HackerRank** (Python, Java, SQL)  
   - 🏅 **Topper Badge** and **Elite+Gold Badge** for NPTEL courses  
 
