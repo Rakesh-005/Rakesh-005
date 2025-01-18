@@ -7,31 +7,12 @@
 
 ---
 
-- 🌱 **Currently Learning:** **Deep Learning, Web Development, IoT**  
+- 🌱 **Currently Learning:** **Deep Learning, Web Development**  
 - 💬 **Ask Me About:** **Python, Java, SQL, Machine Learning, Web Development**  
-- 📫 **Reach Me At:** **rakeshsarma.ponukupati@gmail.com**  
+- 📫 **Reach Me At:** **rakesh20050618@gmail.com**  
 - 🏆 **Achievements:**  
-  - 🥇 **Ranked 296** in **TechGig Code Gladiators 2024**  
   - 🎖️ **5-Star Coder** on **HackerRank** (Python, Java, SQL)  
   - 🏅 **Topper Badge** and **Elite+Gold Badge** for NPTEL courses  
-
----
-
-<h3 align="left">💼 Professional Experience:</h3>
-- 🌐 **Web Development Intern:** Motioncut (Developed 4 websites, including E-Commerce and Mini Store platforms)  
-- 🧠 **AI Projects:**  
-  - **AI Bot:** Secure authentication & personalized interactions using Gemini API  
-  - **Sports Classifier:** 96% accuracy with SVM & Wavelet Transform  
-  - **Movie Recommender System:** Built with Streamlit  
-
----
-
-<h3 align="left">🌟 Projects & Interests:</h3>
-- 🩺 **Mini Projects in Progress:**  
-  - Pneumonia Detection using Chest X-Ray Images  
-  - Lung Cancer Detection using Histopathological Images  
-- 📅 **Upcoming:** Integrated major project combining both mini-projects  
-- 🌍 **Passionate About:** Exploring AI tools, Kaggle competitions, and cutting-edge technologies  
 
 ---
 
@@ -40,7 +21,7 @@
   <a href="https://www.linkedin.com/in/rakesh-sarma-ponukupati/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-sarma-ponukupati" height="30" width="40" />
   </a>
-  <a href="https://github.com/rakesh-sarma-ponukupati" target="blank">
+  <a href="https://github.com/Rakesh-005" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rakesh-sarma-ponukupati" height="30" width="40" />
   </a>
 </p>
@@ -91,10 +72,10 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakesh-sarma-ponukupati&show_icons=true&locale=en&layout=compact" alt="rakesh-sarma-ponukupati" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakesh-005&show_icons=true&locale=en&layout=compact" alt="rakesh-sarma-ponukupati" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh-sarma-ponukupati&" alt="rakesh-sarma-ponukupati" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh-005&" alt="rakesh-sarma-ponukupati" />
 </p>
 
 ---
