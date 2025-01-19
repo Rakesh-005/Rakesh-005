@@ -75,10 +75,9 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakesh-005&show_icons=true&locale=en&layout=compact" alt="rakesh-sarma-ponukupati" />
 </p>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh-005&" alt="rakesh-sarma-ponukupati" />
-</p>
+- 📄 **Check out my Resume:** [View Resume](https://drive.google.com/file/d/1PYP4TpJRIQo5doLQssQ1j_UOhXdHDRie/view?usp=sharing)
 
 ---
 
-<h3 align="center">✨ Thank You for Visiting My Profile ✨</h3>
+<h3 align="center">"🌟 Always Open to Collaborate and Learn!" </h3>
+<h3 align="center">"📬 Feel Free to Reach Out for Opportunities or Collaborations!"</h3>
