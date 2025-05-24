@@ -75,7 +75,7 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakesh-005&show_icons=true&locale=en&layout=compact" alt="rakesh-sarma-ponukupati" />
 </p>
-- 📄 **Check out my Resume:** [View Resume](https://drive.google.com/file/d/1NjulnwQnnQjLo-3MNn1LJz2izzv2ZuS6/view?usp=sharing)
+- 📄 **Check out my Resume:** [View Resume](https://drive.google.com/file/d/1ITgVY1P8-XLXS11JA27I7KV7O-Dq1JOi/view?usp=sharing)
 
 ---
 
