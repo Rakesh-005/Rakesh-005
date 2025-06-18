@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🎓 B.Tech CSE (AI & ML) @ VRSEC &nbsp;|&nbsp; 💻 Backend + AI Developer &nbsp;|&nbsp; 🚀 Passionate about building real-world impact
+  🎓 B.Tech CSE (AI & ML) @ VRSEC' 2026 &nbsp;|&nbsp; 💻 Software + AI Developer &nbsp;|&nbsp; 🚀 Passionate about building real-world impact
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 💡 Passionate about AI, backend development, and real-world problem solving  
 📬 Reach me: [rakesh20050618@gmail.com](mailto:rakesh20050618@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-sarma-ponukupati-6b3512259/) | [GitHub](https://github.com/Rakesh-005) | [Portfolio](https://rakesh-005.github.io/Portfolio/)
-📄 View my [Resume]([https://bharadwajrachakonda.github.io/Portfolio/Resume.pdf](https://drive.google.com/file/d/1XVNg_5sc5tfsRNPFaVsKRqNkzV-t0Jjv/view?usp=drive_link))
+📄 View my [Resume](https://drive.google.com/file/d/1XVNg_5sc5tfsRNPFaVsKRqNkzV-t0Jjv/view?usp=drive_link)
 
 
 ---
@@ -97,7 +97,8 @@
 ### 🧰 Developer Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
-  <img src="https://cdn.simpleicons.org/servicenow/0A94FF" height="30" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/ServiceNow-0A94FF?style=flat&logo=servicenow&logoColor=white" height="25" alt="ServiceNow Badge" />
+
 </p>
 
 
@@ -129,11 +130,11 @@ Chatbot with JWT-based secure login & Gemini API integration for intelligent rep
 
 ## 📚 Experience
 
-**Data Science Intern** – *Alfido Tech*  
+**Data Science Virtual Intern** – *Alfido Tech*  
 > Zomato trends, Loan predictions, Instagram sentiment — improved model accuracy by 15%  
 **Stack:** Python, Pandas, Scikit-learn, NLTK
 
-**Web Development Intern** – *MotionCut Co.*  
+**Web Development Virtual Intern** – *MotionCut Co.*  
 > Delivered 4 live apps including e-commerce and a to-do platform  
 **Stack:** HTML, CSS, JS, GitHub
 
