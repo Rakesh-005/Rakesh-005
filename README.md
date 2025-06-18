@@ -115,11 +115,14 @@ Chatbot with JWT-based secure login & Gemini API integration for intelligent rep
 
 ## 📗 GeeksforGeeks Profile
 
+## 📗 GeeksforGeeks Stats
+
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/user/rakesh20lg60/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Rakesh-005/Rakesh-005/main/assets/gfg_stats_card_rakesh.png" alt="GeeksforGeeks Stats"/>
 </p>
+
+🔗 [View My GFG Profile](https://www.geeksforgeeks.org/user/rakesh20lg60/)
+
 
 
 ---
