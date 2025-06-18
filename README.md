@@ -1,83 +1,104 @@
-<h1 align="center">Hi 👋, I'm Rakesh Sarma Ponukupati</h1>
-<h3 align="center">🚀 Aspiring AI & ML Engineer | BTech in Computer Science (AI & ML) | VRSEC</h3>
+# 👋 Hi, I'm Rakesh Sarma Ponukupati
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=👨‍💻+Coding+Enthusiast+and+Problem+Solver;🌟+5-Star+Coder+on+HackerRank;💡+Innovating+with+AI,+ML,+and+Web+Dev;📚+Passionate+Lifelong+Learner">
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9EE6FE,100:0077B5&height=170&section=header&text=RAKESH%20SARMA%20PONUKUPATI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
----
-
-- 🌱 **Currently Learning:** **Deep Learning, Web Development**  
-- 💬 **Ask Me About:** **Python, Java, SQL, Machine Learning, Web Development**  
-- 📫 **Reach Me At:** **rakesh20050618@gmail.com**  
-- 🏆 **Achievements:**
-  - 💻 **LeetCode Achievements:** Earned a **200 Days Badge** and consistently solve daily challenges to enhance problem-solving skills.
-  - 🎖️ **5-Star Coder** on **HackerRank** (Python, Java, SQL)  
-  - 🏅 **Topper Badge** and **Elite+Gold Badge** for NPTEL courses  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Backend+Developer+%F0%9F%94%A5;Web+Engineer+%F0%9F%92%BB;DSA+Lover+on+LeetCode+%F0%9F%8E%93)](https://git.io/typing-svg)
+</div>
 
 ---
 
-<h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/rakesh-sarma-ponukupati/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-sarma-ponukupati" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Rakesh-005" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rakesh-sarma-ponukupati" height="30" width="40" />
-  </a>
-</p>
+## 🚀 About Me
+
+```python
+class Rakesh:
+    def __init__(self):
+        self.domain = ['AI/ML', 'Backend', 'Web', 'Cloud']
+        self.languages = ['Python', 'Java', 'JavaScript', 'SQL']
+        self.frameworks = ['React.js', 'Node.js', 'Flask', 'Express']
+        self.tools = ['Git', 'AWS', 'MongoDB', 'MySQL', 'ServiceNow']
+        self.learning = ['System Design', 'DevOps', 'LLMs']
+    
+    def ready_for(self):
+        return ['Internships', 'Open Source', 'Hackathons', 'Placements']
+```
+
+🔭 I'm currently building:  
+- 🤖 A Pneumonia Detection System using YOLOv8  
+- 🧠 Intelligent Bots and ML dashboards  
+- 🧩 Full-stack web platforms with secure authentication
 
 ---
 
-<h3 align="left">🛠️ Tech Stack:</h3>
-<p align="left"> 
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> 
-    </a> 
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="matplotlib" width="40" height="40"/> 
-    </a>
-</p>
+## 📌 Projects That Define Me
+
+- **🩺 Pneumonia Detector with YOLOv8**  
+  `Real-time X-ray analysis | 97% Accuracy | Web-integrated`
+  
+- **🧑‍💼 Event Management System**  
+  `Admin + Client dashboard | MERN stack | Role-based access`
+
+- **🎬 Movie Recommendation System**  
+  `Collaborative Filtering | Streamlit App | Scikit-learn`
+
+- **🤖 AI Bot with Secure Auth**  
+  `OpenAI GPT API + Node.js | Email OTP + JWT Security`
+
+*More on [My Portfolio →](https://rakesh-005.github.io/Portfolio/)*
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakesh-005&show_icons=true&locale=en&layout=compact" alt="rakesh-sarma-ponukupati" />
-</p>
-- 📄 **Check out my Resume:** [View Resume](https://drive.google.com/file/d/1ITgVY1P8-XLXS11JA27I7KV7O-Dq1JOi/view?usp=sharing)
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sarma-ponukupati-6b3512259/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rakesh20050618@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=react&logoColor=white)](https://rakesh-005.github.io/Portfolio/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/rakesh20050618/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rakesh-005)
 
 ---
 
-<h3 align="center">"🌟 Always Open to Collaborate and Learn!" </h3>
-<h3 align="center">"📬 Feel Free to Reach Out for Opportunities or Collaborations!"</h3>
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Python` `Java` `JavaScript` `SQL` `HTML` `CSS`
+
+**Frameworks & Tools:**  
+`React.js` `Node.js` `Flask` `Express` `MongoDB` `MySQL`  
+`ServiceNow (CSA & CAD)` `AWS` `Git` `OpenAI API` `Gemini API`
+
+---
+
+## 🧠 Currently Learning
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ServiceNow%20Scripting-0A94FF?style=for-the-badge&logo=servicenow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA%20Mastery-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Projects-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-005&show_icons=true&theme=radical&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-005&layout=compact&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh-005&theme=radical"/>
+</div>
+
+---
+
+## 💡 Philosophy
+
+> *“Build it. Break it. Learn from it. Repeat.”*  
+> *“Better code starts with better curiosity.”*  
+> *“I don’t push code, I push limits.”*
+
+---
+
+<div align="center">
+  <strong>Thanks for stopping by!</strong>  
+  <br>
+  ⭐ Let's build, learn, and grow together 🚀  
+</div>
