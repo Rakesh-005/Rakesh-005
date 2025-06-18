@@ -31,8 +31,9 @@
   </a>
 </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwajrachakonda&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwajrachakonda" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Rakesh-005&label=Profile%20views&color=0e75b6&style=flat" alt="Rakesh-005" />
+</p>
 
 ---
 
@@ -60,55 +61,46 @@
 
 ---
 
-## 💻 Tech Stack & Tools I Use
+## 🛠️ Tech Stack
 
-<div align="center">
+### 👨‍💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
 
-<!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=py" height="30" alt="Python" />
-<img src="https://skillicons.dev/icons?i=java" height="30" alt="Java" />
-<img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
-<img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" height="30" alt="SQL" />
+### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="Streamlit" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+### 🧠 AI/ML & Data Science
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SciKitLearn-Light.svg" height="30" alt="Scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLOv8-FFBB00?style=flat&logo=python&logoColor=black" height="25" />
+  <img src="https://img.shields.io/badge/NLTK-4584b6?style=flat&logo=python&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Gemini_API-000?style=flat&logo=google&logoColor=white" height="25" />
+</p>
+
+### 🗃️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" height="30" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🧰 Developer Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
+  <img src="https://cdn.simpleicons.org/servicenow/0A94FF" height="30" alt="ServiceNow" />
+</p>
 
 
-
-<!-- Frameworks & Libraries -->
-<img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />
-<img src="https://skillicons.dev/icons?i=express" height="30" alt="Express.js" />
-<img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="Streamlit" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
-
-<!-- AI/ML & Data Science -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />[
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SciKitLearn-Light.svg" height="30" alt="Scikit-learn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
-<img src="https://img.shields.io/badge/YOLOv8-FFBB00?style=flat&logo=python&logoColor=black" height="25" alt="YOLOv8" />
-<img src="https://img.shields.io/badge/NLTK-4584b6?style=flat&logo=python&logoColor=white" height="25" alt="NLTK" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" height="25" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/Gemini_API-000?style=flat&logo=google&logoColor=white" height="25" alt="Gemini API" />
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
-
-<!-- Dev Tools -->
-<img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
-<img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman" />
-<img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
-
-<!-- Design -->
-<img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" />
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="Canva" />
-
-</div>
 
 
 ## 🚀 Projects
@@ -175,11 +167,24 @@ Chatbot with JWT-based secure login & Gemini API integration for intelligent rep
 
 ---
 ## 📈 GitHub Stats
-
+## 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakesh-005&theme=dracula&hide_border=true" alt="GitHub Summary" height="150"/>
+
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakesh-005&theme=github_dark&hide_border=true" alt="GitHub Profile Summary" />
+
+<!-- Language Usage -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-005&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="160"/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh-005&theme=github-compact&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+
+<!-- General Stats (Reliable Mirror) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rakesh-005&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="160"/>
+
 </div>
+
 
 ## 📊 LeetCode
 
