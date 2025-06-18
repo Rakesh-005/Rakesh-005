@@ -124,7 +124,7 @@ Chatbot with JWT-based secure login & Gemini API integration for intelligent rep
   <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-005&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-005&layout=compact&theme=radical" height="160"/>
 </div>
-## 📗 LeetCode Stats
+📗 LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/rakesh20050618?theme=dark&font=Fira+Code" height="180"/>
 </div>
