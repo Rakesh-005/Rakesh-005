@@ -1,9 +1,23 @@
-# 👋 Hi, I'm Rakesh Sarma Ponukupati
+# 👋 Hey there! I'm **Rakesh Sarma Ponukupati**
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9EE6FE,100:0077B5&height=160&section=header&text=Rakesh%20Sarma%20Ponukupati&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=4DD4FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer+in+the+Making.;Backend+Dev+who+loves+clean+architecture.;Problem+Solver+with+an+eye+for+detail.;Coding+my+way+into+impactful+innovation.+" />
 </div>
 
+<p align="center">
+  🎓 Final-year CSE (AI & ML) Student @ VRSEC &nbsp;|&nbsp; 💻 Developer of smart systems & ML tools &nbsp;|&nbsp; ⚙️ Driven by curiosity & impact
+</p>
+
+<p align="center">
+  <a href="https://rakesh-005.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="https://linkedin.com/in/rakesh-sarma-ponukupati-6b3512259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rakesh20050618@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Rakesh-005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+> 🧠 “I'm not just learning how to code—I’m learning how to think, build, and impact.”
 ---
 
 ## 🧠 About Me
