@@ -86,7 +86,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />[
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="Scikit-learn" />](https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg)
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SciKitLearn-Light.svg" height="30" alt="Scikit-learn" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
 <img src="https://img.shields.io/badge/YOLOv8-FFBB00?style=flat&logo=python&logoColor=black" height="25" alt="YOLOv8" />
 <img src="https://img.shields.io/badge/NLTK-4584b6?style=flat&logo=python&logoColor=white" height="25" alt="NLTK" />
