@@ -31,6 +31,9 @@
   </a>
 </p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwajrachakonda&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwajrachakonda" /> </p>
+
 ---
 
 > 🧠 “I'm not just learning how to code—I’m learning how to think, build, and impact.”
@@ -42,6 +45,8 @@
 💡 Passionate about AI, backend development, and real-world problem solving  
 📬 Reach me: [rakesh20050618@gmail.com](mailto:rakesh20050618@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-sarma-ponukupati-6b3512259/) | [GitHub](https://github.com/Rakesh-005) | [Portfolio](https://rakesh-005.github.io/Portfolio/)
+📄 View my [Resume]([https://bharadwajrachakonda.github.io/Portfolio/Resume.pdf](https://drive.google.com/file/d/1XVNg_5sc5tfsRNPFaVsKRqNkzV-t0Jjv/view?usp=drive_link))
+
 
 ---
 
@@ -54,6 +59,56 @@
 **AI/ML:** Scikit-learn, OpenCV, YOLOv8, NLTK, Pandas, NumPy, Matplotlib, Gemini API, OpenAI API
 
 ---
+
+## 💻 Tech Stack & Tools I Use
+
+<div align="center">
+
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=py" height="30" alt="Python" />
+<img src="https://skillicons.dev/icons?i=java" height="30" alt="Java" />
+<img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=sql" height="30" alt="SQL" />
+
+<!-- Frameworks & Libraries -->
+<img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=express" height="30" alt="Express.js" />
+<img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="Streamlit" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
+
+<!-- AI/ML & Data Science -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="Scikit-learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
+<img src="https://img.shields.io/badge/YOLOv8-FFBB00?style=flat&logo=python&logoColor=black" height="25" alt="YOLOv8" />
+<img src="https://img.shields.io/badge/NLTK-4584b6?style=flat&logo=python&logoColor=white" height="25" alt="NLTK" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" height="25" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Gemini_API-000?style=flat&logo=google&logoColor=white" height="25" alt="Gemini API" />
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
+
+<!-- Dev Tools -->
+<img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman" />
+<img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
+<img src="https://cdn.simpleicons.org/servicenow/0A94FF" height="30" alt="ServiceNow" />
+
+<!-- Design -->
+<img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" />
+<img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="Canva" />
+
+</div>
+
 
 ## 🚀 Projects
 
@@ -120,14 +175,17 @@ Chatbot with JWT-based secure login & Gemini API integration for intelligent rep
 ---
 ## 📈 GitHub Stats
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-005&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-005&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakesh-005&theme=dracula&hide_border=true" alt="GitHub Summary" height="150"/>
 </div>
-📗 LeetCode Stats
+
+## 📊 LeetCode
+
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/rakesh20050618?theme=dark&font=Fira+Code" height="180"/>
+  <img src="https://leetcard.jacoblin.cool/rakesh20050618?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
 </div>
+
 
 
 
