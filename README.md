@@ -1,104 +1,121 @@
 # 👋 Hi, I'm Rakesh Sarma Ponukupati
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9EE6FE,100:0077B5&height=170&section=header&text=RAKESH%20SARMA%20PONUKUPATI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Backend+Developer+%F0%9F%94%A5;Web+Engineer+%F0%9F%92%BB;DSA+Lover+on+LeetCode+%F0%9F%8E%93)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9EE6FE,100:0077B5&height=160&section=header&text=Rakesh%20Sarma%20Ponukupati&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-```python
-class Rakesh:
-    def __init__(self):
-        self.domain = ['AI/ML', 'Backend', 'Web', 'Cloud']
-        self.languages = ['Python', 'Java', 'JavaScript', 'SQL']
-        self.frameworks = ['React.js', 'Node.js', 'Flask', 'Express']
-        self.tools = ['Git', 'AWS', 'MongoDB', 'MySQL', 'ServiceNow']
-        self.learning = ['System Design', 'DevOps', 'LLMs']
-    
-    def ready_for(self):
-        return ['Internships', 'Open Source', 'Hackathons', 'Placements']
-```
-
-🔭 I'm currently building:  
-- 🤖 A Pneumonia Detection System using YOLOv8  
-- 🧠 Intelligent Bots and ML dashboards  
-- 🧩 Full-stack web platforms with secure authentication
+🎓 Final-year B.Tech CSE (AI & ML) student at VRSEC, Vijayawada  
+💡 Passionate about AI, backend development, and real-world problem solving  
+📬 Reach me: [rakesh20050618@gmail.com](mailto:rakesh20050618@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-sarma-ponukupati-6b3512259/) | [GitHub](https://github.com/Rakesh-005) | [Portfolio](https://rakesh-005.github.io/Portfolio/)
 
 ---
 
-## 📌 Projects That Define Me
+## 🔨 Tech Stack
 
-- **🩺 Pneumonia Detector with YOLOv8**  
-  `Real-time X-ray analysis | 97% Accuracy | Web-integrated`
-  
-- **🧑‍💼 Event Management System**  
-  `Admin + Client dashboard | MERN stack | Role-based access`
-
-- **🎬 Movie Recommendation System**  
-  `Collaborative Filtering | Streamlit App | Scikit-learn`
-
-- **🤖 AI Bot with Secure Auth**  
-  `OpenAI GPT API + Node.js | Email OTP + JWT Security`
-
-*More on [My Portfolio →](https://rakesh-005.github.io/Portfolio/)*
+**Languages:** Python, Java, SQL, JavaScript, HTML, CSS  
+**Frameworks:** React.js, Node.js, Express, Flask, Streamlit  
+**Databases:** MongoDB, MySQL  
+**Tools & Platforms:** Git, GitHub, AWS, VS Code, Jupyter, ServiceNow (CSA)  
+**AI/ML:** Scikit-learn, OpenCV, YOLOv8, NLTK, Pandas, NumPy, Matplotlib, Gemini API, OpenAI API
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sarma-ponukupati-6b3512259/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rakesh20050618@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=react&logoColor=white)](https://rakesh-005.github.io/Portfolio/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/rakesh20050618/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rakesh-005)
+### 🩺 Pneumonia Detection using YOLOv8  
+*Deep Learning & Medical Imaging*  
+Achieved 98.6% accuracy and mAP@0.5 by applying YOLOv8 to X-ray images. Integrated real-time localization with OpenCV and Roboflow.
+
+### 🧑‍💼 Event Management System  
+*Flask, SQLAlchemy, JS*  
+Web app with secure login, admin roles, and venue registration — handled 500+ events with improved coordination.
+
+### 🎬 Movie Recommendation System  
+*Python, Streamlit, ML*  
+Real-time content-based recommendation system with 20% boost in engagement and 25% faster predictions.
+
+### 🤖 AI Bot with Secure Auth  
+*MERN Stack, Gemini API*  
+Chatbot with JWT-based secure login & Gemini API integration for intelligent replies.
+
+### 🏅 Sports Person Classifier  
+*Python, Flask, GridSearchCV*  
+96% accurate image classifier with real-time prediction interface.
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 Experience
 
-**Languages:**  
-`Python` `Java` `JavaScript` `SQL` `HTML` `CSS`
+**Data Science Intern** – *Alfido Tech*  
+> Zomato trends, Loan predictions, Instagram sentiment — improved model accuracy by 15%  
+**Stack:** Python, Pandas, Scikit-learn, NLTK
 
-**Frameworks & Tools:**  
-`React.js` `Node.js` `Flask` `Express` `MongoDB` `MySQL`  
-`ServiceNow (CSA & CAD)` `AWS` `Git` `OpenAI API` `Gemini API`
+**Web Development Intern** – *MotionCut Co.*  
+> Delivered 4 live apps including e-commerce and a to-do platform  
+**Stack:** HTML, CSS, JS, GitHub
 
 ---
 
-## 🧠 Currently Learning
+## 🎓 Education
+
+**B.Tech, CSE (AI & ML)** – VRSEC, Vijayawada (2022–2026) – *GPA: 9.12*  
+**Intermediate (MPC)** – Narayana College – *96.2%*
+
+---
+
+## 🏆 Achievements
+
+- 🟨 **365-Day Leetcode Streak**, 85% acceptance rate  
+- ⭐ **HackerRank 5⭐** in Python, Java, SQL  
+- 🥇 **NPTEL Topper**: Python (Gold), R (Silver)  
+- 🧠 **Tri-lang Quest Organizer** @ VRSEC AFOSEC Fest  
+- ⚙️ Built custom AI automation scripts for image processing
+
+---
+
+## 📜 Certifications
+
+- ✅ ServiceNow Certified System Administrator (CSA)  
+- 📊 Cisco Data Analytics, CCNA & Python  
+- 🧪 EDX Data Science with Python  
+- ☁️ AWS Cloud & ML Foundations  
+- 🧬 IBM AI & ML Foundations  
+- 🐍 NPTEL Python & R (Topper Badges)
+
+---
+## 📈 GitHub, LeetCode & GeeksforGeeks Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ServiceNow%20Scripting-0A94FF?style=for-the-badge&logo=servicenow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA%20Mastery-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML%20Projects-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-005&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-005&layout=compact&theme=radical" height="160"/>
 </div>
-
----
-
-## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-005&show_icons=true&theme=radical&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-005&layout=compact&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh-005&theme=radical"/>
+  <img src="https://leetcard.jacoblin.cool/rakesh20050618?theme=dark&font=Fira+Code" height="180"/>
+</div>
+
+<div align="center">
+  <a href="https://auth.geeksforgeeks.org/user/rakesh20lg60/" target="_blank">
+    <img src="https://geeksforgeeks-stats-api.vercel.app/?userName=rakesh20lg60" alt="GFG stats card" />
+  </a>
 </div>
 
 ---
+## ✨ Philosophy
 
-## 💡 Philosophy
-
-> *“Build it. Break it. Learn from it. Repeat.”*  
-> *“Better code starts with better curiosity.”*  
-> *“I don’t push code, I push limits.”*
+> “I don’t just write code — I craft logic with purpose.”  
+> “Every error is a lesson. Every deploy, a step forward.”  
+> “I build solutions not to impress, but to improve — consistently.”  
+> “Progress is my default branch.”
 
 ---
 
 <div align="center">
-  <strong>Thanks for stopping by!</strong>  
-  <br>
-  ⭐ Let's build, learn, and grow together 🚀  
+  <strong>Thanks for visiting! 👋<br>Let’s innovate, collaborate, and make tech meaningful together. 🚀</strong>  
 </div>
+
