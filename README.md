@@ -70,7 +70,9 @@
 <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />
 <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
 <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
-<img src="https://skillicons.dev/icons?i=sql" height="30" alt="SQL" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" height="30" alt="SQL" />
+
+
 
 <!-- Frameworks & Libraries -->
 <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
@@ -83,8 +85,8 @@
 <!-- AI/ML & Data Science -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="Scikit-learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" />[
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="Scikit-learn" />](https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
 <img src="https://img.shields.io/badge/YOLOv8-FFBB00?style=flat&logo=python&logoColor=black" height="25" alt="YOLOv8" />
 <img src="https://img.shields.io/badge/NLTK-4584b6?style=flat&logo=python&logoColor=white" height="25" alt="NLTK" />
@@ -101,7 +103,6 @@
 <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VS Code" />
 <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman" />
 <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
-<img src="https://cdn.simpleicons.org/servicenow/0A94FF" height="30" alt="ServiceNow" />
 
 <!-- Design -->
 <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" />
